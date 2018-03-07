@@ -9,7 +9,7 @@
 
 # Descripción de la Evaluación
 
-Se proveen dos ejercicios de distinta dificultad. Leer antentamente lo que se pide en cada ejercicio y empezar por el que sea más sencillo.
+Se proveen unos ejercicios de distinta dificultad. Leer antentamente lo que se pide en cada ejercicio y empezar por el que sea más sencillo.
 
 # 1. Análisis e Interpretación de Código
 
